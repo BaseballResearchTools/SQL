@@ -1,1 +1,1 @@
-# sql-basics
+# SQL
